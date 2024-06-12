@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @JeremyMeil
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-menfou
-<!---
-JeremyMeil/JeremyMeil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+    👋 Hi, I’m @JeremyMeil
+    👀 I’m interested in foir a la sociss
+    🌱 I’m currently learning ...
+    💞️ I’m looking to collaborate on ...
+    📫 How to reach me ...
+    😄 Pronouns: exe
+    ⚡ Fun fact: ... menfou
+
+
+![JeremyMeil's Stats](https://github-readme-stats.vercel.app/api?username=JeremyMeil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
+![JeremyMeil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeremyMeil&theme=vue-dark&hide_border=true)
+
+
+![JeremyMeil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyMeil&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
