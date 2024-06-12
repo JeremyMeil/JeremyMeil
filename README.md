@@ -2,7 +2,6 @@
     👋 Hi, I’m @JeremyMeil
     👀 I’m interested in foir a la sociss
     🌱 I’m currently learning ... menuiserie
-    💞️ I’m looking to collaborate on Tinder
     📫 How to reach me ... do not
     😄 Pronouns: where/exe
     ⚡ Fun fact: ... menfou
